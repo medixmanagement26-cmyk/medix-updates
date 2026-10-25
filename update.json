@@ -1,0 +1,15 @@
+{
+ "releases": [
+  {
+   "version": "1.1.1",
+   "manifest": "eyJ2IjoiMS4xLjEiLCJzaGEyNTYiOiJmNWIyZDlkODRkOTNhMTNlYjcyMWQ0MGQ3ZjU2MmRkZDRiYmM2MWMwYzg3N2FjMTk0ZDEzM2YwYjQ1ZDI2OTQ4Iiwic2l6ZSI6MTk3MjQyMDMsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjEuMS1jZWYxN2ZkYmMwMjIuZXhlIiwibm90ZXMiOiLYp9mE2LHYrNin2KEg2KrZiNi12YrZhCDYp9mE2YPZhdio2YrZiNiq2LEg2KjYp9mE2KfZhtiq2LHZhtiqINmE2KrYq9io2YrYqiDYp9mE2KrYrdiv2YrYqyDYp9mE2KzYr9mK2K8ifQ",
+   "sig": "Y9DCNXgFXoajJ8WOi0uxCs_2qI4q_9HNpD-3LB5A5jDBvsZPVEo900-7C9uOVBfGCgAn9rJG9wUAFvEYZq-1Dw",
+   "file": "Medix-Setup-1.1.1-cef17fdbc022.exe",
+   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.1.1/Medix-Setup-1.1.1-cef17fdbc022.exe",
+   "size": 19724203,
+   "targets": [],
+   "notes": "الرجاء توصيل الكمبيوتر بالانترنت لتثبيت التحديث الجديد",
+   "published": "2026-10-25T22:35:20Z"
+  }
+ ]
+}
