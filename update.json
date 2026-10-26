@@ -10,6 +10,17 @@
    "targets": [],
    "notes": "الرجاء توصيل الكمبيوتر بالانترنت لتثبيت التحديث الجديد",
    "published": "2026-10-25T22:35:20Z"
+  },
+  {
+   "version": "1.1.2",
+   "manifest": "eyJ2IjoiMS4xLjIiLCJzaGEyNTYiOiJlM2YzNmEwYmQ5NDQ4NWZmYzQ4NjA1YTUxNDUyM2EwZTg2ZjIwZTg2NjgwNjM5ODQ4ZTFiOWY0NTMxMzMwOWJjIiwic2l6ZSI6MTk3MjA4MzIsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjEuMi02NTU0N2UzMDRkNDkuZXhlIiwibm90ZXMiOiIifQ",
+   "sig": "U8ZIpRSLkyVmOzC_xLeo_5ullkdUs8QWPG1M68jwWekyg_5CxZ7ZXV-NLheB2u4fvkNSiIwT8Hk8n_i4_S9eDg",
+   "file": "Medix-Setup-1.1.2-65547e304d49.exe",
+   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.1.2/Medix-Setup-1.1.2-65547e304d49.exe",
+   "size": 19720832,
+   "targets": [],
+   "notes": "",
+   "published": "2026-10-26T02:07:21Z"
   }
  ]
 }
