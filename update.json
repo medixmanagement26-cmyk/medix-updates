@@ -54,6 +54,17 @@
    "targets": [],
    "notes": "",
    "published": "2026-10-27T00:12:39Z"
+  },
+  {
+   "version": "1.2.7",
+   "manifest": "eyJ2IjoiMS4yLjciLCJzaGEyNTYiOiJmNGU3OTAwNzYyYzQ1ZjM5YTlmNGVjYThmNjQ0YjdiYTNhMzAwYTk3ZDA1NzZmODJkZTgzNTg4ZjA3ODkxOGQwIiwic2l6ZSI6MTkyNDUyMzksImZpbGUiOiJNZWRpeC1TZXR1cC0xLjIuNy0yMGNhODE5MDc4ZTUuZXhlIiwibm90ZXMiOiIifQ",
+   "sig": "H7k50YvccoQ7d5a5ylFvDdeX9kO2oNjwnoPGiSHThTDTwDwvwBnQNOAa3QDu5ODj199qMNJ38OPETHiRnbAQBw",
+   "file": "Medix-Setup-1.2.7-20ca819078e5.exe",
+   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.2.7/Medix-Setup-1.2.7-20ca819078e5.exe",
+   "size": 19245239,
+   "targets": [],
+   "notes": "",
+   "published": "2026-10-27T00:38:55Z"
   }
  ]
 }
