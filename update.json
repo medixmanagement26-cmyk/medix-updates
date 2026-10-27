@@ -1,17 +1,6 @@
 {
  "releases": [
   {
-   "version": "1.1.1",
-   "manifest": "eyJ2IjoiMS4xLjEiLCJzaGEyNTYiOiJmNWIyZDlkODRkOTNhMTNlYjcyMWQ0MGQ3ZjU2MmRkZDRiYmM2MWMwYzg3N2FjMTk0ZDEzM2YwYjQ1ZDI2OTQ4Iiwic2l6ZSI6MTk3MjQyMDMsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjEuMS1jZWYxN2ZkYmMwMjIuZXhlIiwibm90ZXMiOiLYp9mE2LHYrNin2KEg2KrZiNi12YrZhCDYp9mE2YPZhdio2YrZiNiq2LEg2KjYp9mE2KfZhtiq2LHZhtiqINmE2KrYq9io2YrYqiDYp9mE2KrYrdiv2YrYqyDYp9mE2KzYr9mK2K8ifQ",
-   "sig": "Y9DCNXgFXoajJ8WOi0uxCs_2qI4q_9HNpD-3LB5A5jDBvsZPVEo900-7C9uOVBfGCgAn9rJG9wUAFvEYZq-1Dw",
-   "file": "Medix-Setup-1.1.1-cef17fdbc022.exe",
-   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.1.1/Medix-Setup-1.1.1-cef17fdbc022.exe",
-   "size": 19724203,
-   "targets": [],
-   "notes": "الرجاء توصيل الكمبيوتر بالانترنت لتثبيت التحديث الجديد",
-   "published": "2026-10-25T22:35:20Z"
-  },
-  {
    "version": "1.1.2",
    "manifest": "eyJ2IjoiMS4xLjIiLCJzaGEyNTYiOiJlM2YzNmEwYmQ5NDQ4NWZmYzQ4NjA1YTUxNDUyM2EwZTg2ZjIwZTg2NjgwNjM5ODQ4ZTFiOWY0NTMxMzMwOWJjIiwic2l6ZSI6MTk3MjA4MzIsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjEuMi02NTU0N2UzMDRkNDkuZXhlIiwibm90ZXMiOiIifQ",
    "sig": "U8ZIpRSLkyVmOzC_xLeo_5ullkdUs8QWPG1M68jwWekyg_5CxZ7ZXV-NLheB2u4fvkNSiIwT8Hk8n_i4_S9eDg",
@@ -65,6 +54,17 @@
    "targets": [],
    "notes": "",
    "published": "2026-10-27T00:38:55Z"
+  },
+  {
+   "version": "1.2.8",
+   "manifest": "eyJ2IjoiMS4yLjgiLCJzaGEyNTYiOiJlMmUwZGNkMzhiNmY1ZDRlNzVlZTNkNjE0OTdlYzE2YjA4MWIzMGYxMzkxOWQ1NDNhMzE3MjAyNzNkNjY1NmI0Iiwic2l6ZSI6MTkyNDY4OTksImZpbGUiOiJNZWRpeC1TZXR1cC0xLjIuOC04MzEzY2E4NTQyY2UuZXhlIiwibm90ZXMiOiIifQ",
+   "sig": "aomiNGaA6ycFA86o090xDx8k6Q2wp0t18F5Vbz4xmzjPBQQMv60f2W8OwPt8xFo5JF1_PhU3PDk9Lzc_MWdiCQ",
+   "file": "Medix-Setup-1.2.8-8313ca8542ce.exe",
+   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.2.8/Medix-Setup-1.2.8-8313ca8542ce.exe",
+   "size": 19246899,
+   "targets": [],
+   "notes": "",
+   "published": "2026-10-27T01:07:02Z"
   }
  ]
 }
