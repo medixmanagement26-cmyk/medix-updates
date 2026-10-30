@@ -1,17 +1,6 @@
 {
  "releases": [
   {
-   "version": "1.3.0",
-   "manifest": "eyJ2IjoiMS4zLjAiLCJzaGEyNTYiOiI2YTZlMzgxZjEwNTc2MTUwMjJiM2U0MzdkZWUwZjZjMzNiZGQ5NDJkOTQ4YmE2OGNhMWEwYWI1OWJmOGViZmI2Iiwic2l6ZSI6MTkyNDUxMzksImZpbGUiOiJNZWRpeC1TZXR1cC0xLjMuMC04YTY1NDJjMzdhYmQuZXhlIiwibm90ZXMiOiIifQ",
-   "sig": "jXxm-0Hxd9TDnvn2dHwDBfrhH9k95GJEYEhdL6c_xUKWaKzBkSVzOmRH53Q9l0J4S0SqQcrPpkPDTTRZo03uCA",
-   "file": "Medix-Setup-1.3.0-8a6542c37abd.exe",
-   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.3.0/Medix-Setup-1.3.0-8a6542c37abd.exe",
-   "size": 19245139,
-   "targets": [],
-   "notes": "",
-   "published": "2026-10-27T12:00:04Z"
-  },
-  {
    "version": "1.3.1",
    "manifest": "eyJ2IjoiMS4zLjEiLCJzaGEyNTYiOiJjZWRlMTU4ZGJlZDA5ZGNmYzI1YjgxMDVjNmIwMDRlZDc4ODBiMTRhNDNiNmE4NTc0YjgxYWIwMTVlZDZlZGVlIiwic2l6ZSI6MTkyNDM4NTYsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjMuMS04N2MyMWMxYTY3ZTMuZXhlIiwibm90ZXMiOiIifQ",
    "sig": "WNUsI8LOqxNxIKbnqu3xog4eXj-wufCRnD5EZhRXSZ-IM9GU3Z8RhuZnaFBqR58ZYKVTXWEdZEdWBCUX95VeBw",
@@ -67,6 +56,17 @@
    "targets": [],
    "notes": "",
    "published": "2026-10-30T19:44:56Z"
+  },
+  {
+   "version": "1.3.6",
+   "manifest": "eyJ2IjoiMS4zLjYiLCJzaGEyNTYiOiI5ZTVkODIzZGJhY2FhYmE4MmIxZjBkMjgzMTlhNmM5ZDMwYzNmZGFmNmRhNDkyOGNkMDM4MmE0MmY1MTZiYzI0Iiwic2l6ZSI6MTY5MzQ0OTMsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjMuNi02YjJmODIxYWNlNjQuZXhlIiwibm90ZXMiOiIifQ",
+   "sig": "TNONIYO7WmDeL3YZv8gRlmdiEZ5SNpJtScjHRyd1WrKVo6EXsbwUaHhEtcQa5CugO9dUjf0vDoEc51Vm8tESAQ",
+   "file": "Medix-Setup-1.3.6-6b2f821ace64.exe",
+   "url": "https://github.com/medixmanagement26-cmyk/medix-updates/releases/download/v1.3.6/Medix-Setup-1.3.6-6b2f821ace64.exe",
+   "size": 16934493,
+   "targets": [],
+   "notes": "",
+   "published": "2026-10-30T19:54:36Z"
   }
  ]
 }
